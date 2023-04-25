@@ -1,6 +1,6 @@
 import yfinance as yf
 
-start_date = '2015-01-01'
+start_date = '2014-01-01'
 end_date = '2022-12-31'
 
 # Download EURO STOXX 50 index data
